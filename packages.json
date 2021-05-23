@@ -1,0 +1,30 @@
+
+  {
+    "package": "sendgridr",
+    "url": "https://github.com/mrchypark/sendgridr"
+  },
+  {
+    "package" : "Elbird",
+    "url" : "https://github.com/mrchypark/Elbird"
+  },
+  {
+    "package": "newspaper",
+    "url": "https://github.com/forkonlp/newspaper"
+  },
+  {
+    "package": "N2H4",
+    "url": "https://github.com/forkonlp/N2H4"
+  },
+  {
+    "package": "KoSpacing",
+    "url": "https://github.com/forkonlp/KoSpacing"
+  },
+  {
+    "package": "KoNLP",
+    "url": "https://github.com/forkonlp/KoNLP"
+  },
+  {
+    "package": "DNH4",
+    "url": "https://github.com/forkonlp/DNH4"
+  }
+]
