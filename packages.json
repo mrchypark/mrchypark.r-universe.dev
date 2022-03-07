@@ -1,11 +1,11 @@
-
+[
   {
     "package": "sendgridr",
     "url": "https://github.com/mrchypark/sendgridr"
   },
   {
-    "package" : "Elbird",
-    "url": "https://github.com/mrchypark/Elbird"
+    "package" : "elbird",
+    "url": "https://github.com/mrchypark/elbird"
   },
   {
     "package" : "josaplay",
