@@ -4,15 +4,19 @@
     "url": "https://github.com/mrchypark/sendgridr"
   },
   {
-    "package" : "elbird",
+    "package": "elbird",
     "url": "https://github.com/mrchypark/elbird"
   },
   {
-    "package" : "josaplay",
+    "package": "josaplay",
     "url": "https://github.com/mrchypark/josaplay"
   },
   {
-    "package" : "multilinguer",
+    "package": "multilinguer",
     "url": "https://github.com/mrchypark/multilinguer"
+  },
+  {
+    "package": "stdictapi",
+    "url": "https://github.com/mrchypark/stdictapi"
   }
 ]
