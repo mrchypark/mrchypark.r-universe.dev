@@ -18,5 +18,9 @@
   {
     "package": "stdictkr",
     "url": "https://github.com/mrchypark/stdictkr"
+  },
+   {
+    "package": "tqk",
+    "url": "https://github.com/mrchypark/tqk"
   }
 ]
