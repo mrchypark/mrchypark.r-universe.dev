@@ -19,8 +19,12 @@
     "package": "stdictkr",
     "url": "https://github.com/mrchypark/stdictkr"
   },
-   {
+  {
     "package": "tqk",
     "url": "https://github.com/mrchypark/tqk"
+  },
+  {
+    "package": "rgotest",
+    "url": "https://github.com/mrchypark/rgotest"
   }
 ]
