@@ -1,0 +1,24 @@
+name: Sync R-universe
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - packages.json
+      - .github/workflows/sync.yml
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: r-universe-sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Request upstream synchronization
+        run: curl --fail-with-body --show-error --silent --max-time 120 --request PATCH https://mrchypark.r-universe.dev/api/sync
